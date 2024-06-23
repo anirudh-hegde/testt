@@ -1,9 +1,3 @@
-### Instructor
-
-Ray Villalobos 
-                            
-Author, Multimedia Developer
-
 # Bitzer
 
 ## Intro
